@@ -74,7 +74,6 @@ Feel free to connect with me on GitHub and share your feedback!
 ⭐ Don't forget to give this repository a star if you found it helpful! ⭐
 markdown
 
-Feel free to replace placeholder links with your actual GitHub profile or repository URL! Let me know if you'd like further customizations. 😊
 
 
 
